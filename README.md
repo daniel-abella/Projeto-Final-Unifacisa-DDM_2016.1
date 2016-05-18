@@ -9,7 +9,8 @@
 ### - Marcelo Cavalcanti
 ### - Márcio Ferreira
 
-#### Descrição do Projeto
+
+#### 1. Descrição do Projeto
 
 Desenvolvimento do Projeto Final da Disciplina usando a Tecnologia Android. Deve-se eleger algum dos projetos descritos abaixo, onde deve-se ser entregues os seguintes deliverables:
 
@@ -22,7 +23,7 @@ Desenvolvimento do Projeto Final da Disciplina usando a Tecnologia Android. Deve
 Aplicação de Questionamento ao Professor/Instrutor. No módulo aluno/ouvinte, pode-se fazer um questionamento de maneira anônima (ou não). Por sua vez, o módulo professor/instrutor permite-se ler o que foi postado e em seguida apagar ou armazenar.
 
 
-#### Regras do Jogo
+#### 2. Regras do Jogo
 
 - Deve-se possuir um menu lateral deslizante personalizado, como o apresentado em: http://cursoandroidstudio.blogspot.com.br/2014/08/menu-lateral-personalizado-navdrawer.html 
 - Deve-se possuir uma opção Sobre, onde fala-se da aplicação e os envolvidos.
@@ -34,13 +35,13 @@ Aplicação de Questionamento ao Professor/Instrutor. No módulo aluno/ouvinte, 
 - Exercícios: 10% da prova
 - Prova sobre o Projeto: 30% da prova
 
-#### Projeto
+#### 3. Projeto
 
 ##### - Perguntas ao Professor
 
 
 
-#### Deadlines
+#### 4. Deadlines
 
 ##### 11/05
 - Repositório git criado
