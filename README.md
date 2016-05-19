@@ -5,7 +5,8 @@
 ### Professor: Daniel Abella
 ### Semestre: 2016.1
 ### Equipe: Emanuel Andrade, Marcelo Cavalcanti e Márcio Ferreira
-###
+###______________________________________________________________
+
 #### 1. Descrição do Projeto
 
 Desenvolvimento do Projeto Final da Disciplina usando a Tecnologia Android. Deve-se eleger algum dos projetos descritos abaixo, onde deve-se ser entregues os seguintes deliverables:
