@@ -4,12 +4,8 @@
 ### Disciplina: Desenvolvimento Mobile
 ### Professor: Daniel Abella
 ### Semestre: 2016.1
-### Equipe:
-### - Emanuel Andrade
-### - Marcelo Cavalcanti
-### - Márcio Ferreira
-
-
+### Equipe: Emanuel Andrade, Marcelo Cavalcanti e Márcio Ferreira
+###
 #### 1. Descrição do Projeto
 
 Desenvolvimento do Projeto Final da Disciplina usando a Tecnologia Android. Deve-se eleger algum dos projetos descritos abaixo, onde deve-se ser entregues os seguintes deliverables:
@@ -37,9 +33,7 @@ Aplicação de Questionamento ao Professor/Instrutor. No módulo aluno/ouvinte, 
 
 #### 3. Projeto
 
-##### - Perguntas ao Professor
-
-
+- Perguntas ao Professor
 
 #### 4. Deadlines
 
