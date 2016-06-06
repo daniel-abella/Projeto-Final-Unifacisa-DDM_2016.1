@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:gravity="bottom"
-    tools:context="com.emanuelgandrade.perguntasaoprofessor.Login">
+    tools:context=".LoginActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -38,7 +38,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dp"
-            android:id="@+id/etUsername" />
+            android:id="@+id/etUsername"
+            android:inputType="textPersonName"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -60,13 +61,15 @@
             android:id="@+id/bLogin"
             android:text="@string/b_login"/>
 
-        <Button
-            android:layout_width="match_parent"
+        <TextView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:id="@+id/bRegister"
-            android:background="@color/colorTransparent"
-            android:text="@string/b_register"/>
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/tvRegisterLink"
+            android:text="@string/tv_register"/>
 
     </LinearLayout>
 
