@@ -14,6 +14,8 @@ public class LoginActivity extends Activity implements View.OnClickListener {
     private Button bLogin;
     private TextView tvRegisterLink;
 
+    private UserLocalStore userLocalStore;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,17 +26,20 @@ public class LoginActivity extends Activity implements View.OnClickListener {
         bLogin = (Button)findViewById(R.id.bLogin);
         tvRegisterLink = (TextView) findViewById(R.id.tvRegisterLink);
 
-        etUsername.setOnClickListener(this);
-        etPassword.setOnClickListener(this);
         bLogin.setOnClickListener(this);
         tvRegisterLink.setOnClickListener(this);
+
+        userLocalStore = new UserLocalStore(this);
     }
 
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.bLogin:
+                User user = new User(null,null);
 
+                userLocalStore.storeUserData(user);
+                userLocalStore.setUserLoggedIn(true);
                 break;
             case R.id.tvRegisterLink:
                 startActivity(new Intent(this, RegisterActivity.class));

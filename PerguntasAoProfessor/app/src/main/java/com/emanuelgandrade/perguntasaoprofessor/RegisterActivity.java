@@ -23,11 +23,6 @@ public class RegisterActivity extends Activity implements View.OnClickListener {
         etPassword2 = (EditText)findViewById(R.id.etPassword2);
         bRegister = (Button)findViewById(R.id.bRegister);
 
-        etName.setOnClickListener(this);
-        etMail.setOnClickListener(this);
-        etUsername.setOnClickListener(this);
-        etPassword1.setOnClickListener(this);
-        etPassword2.setOnClickListener(this);
         bRegister.setOnClickListener(this);
     }
 
@@ -39,7 +34,7 @@ public class RegisterActivity extends Activity implements View.OnClickListener {
                 String mail = etMail.getText().toString();
                 String username = etUsername.getText().toString();
                 String password = etPassword1.getText().toString();
-                User registeredData = new User(name,mail, username, password);
+                User registeredData = new User(name, mail, username, password);
                 break;
         }
     }

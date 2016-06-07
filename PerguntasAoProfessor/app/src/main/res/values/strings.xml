@@ -17,4 +17,5 @@
     <string name="teacher">Professor</string>
     <string name="select_user">Selecione o tipo de usuario:</string>
     <string name="rb_teacher">Prefessor</string>
+    <string name="b_logout">Sair</string>
 </resources>
