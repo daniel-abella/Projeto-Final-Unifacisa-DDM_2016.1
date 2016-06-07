@@ -1,4 +1,4 @@
-package com.emanuelgandrade.ProjetoPerguntasAoProfessor;
+package com.emanuelgandrade.PerguntasAoProfessor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
