@@ -18,7 +18,7 @@ Desenvolvimento do Projeto Final da Disciplina usando a Tecnologia Android. Deve
 - Código Fonte Hospedado no GitHub (Cada um com seus commits)
 - Apresentação final do projeto
 
-Aplicação de Questionamento ao Professor/Instrutor. No módulo aluno/ouvinte, pode-se fazer um questionamento de maneira anônima (ou não). Por sua vez, o módulo professor/instrutor permite-se ler o que foi postado e em seguida apagar ou armazenar.
+Aplicação de Questionamento ao Palestrante/Instrutor. No módulo aluno/ouvinte, pode-se fazer um questionamento de maneira anônima (ou não). Por sua vez, o módulo Palestrante/instrutor permite-se ler o que foi postado e em seguida apagar ou armazenar.
 
 
 #### 2. Regras do Jogo
@@ -27,7 +27,7 @@ Aplicação de Questionamento ao Professor/Instrutor. No módulo aluno/ouvinte, 
 - Deve-se possuir uma opção Sobre, onde fala-se da aplicação e os envolvidos.
 - Deve-se criar logomarca para a aplicação
 - Não pode copiar código fonte dos outros
-- Todos devem saber tudo o que foi desenvolvido, inclusive saber implementar alguma modificação caso seja solicitado pelo professor
+- Todos devem saber tudo o que foi desenvolvido, inclusive saber implementar alguma modificação caso seja solicitado pelo Palestrante
 - A prova será composta da seguinte maneira:
 - Projeto: 60% da prova
 - Exercícios: 10% da prova
