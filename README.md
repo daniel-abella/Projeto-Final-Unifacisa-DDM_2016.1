@@ -6,7 +6,7 @@
 ### Semestre: 2016.1
 ### Equipe: Emanuel Andrade, Marcelo Cavalcanti e Márcio Ferreira
 --
-![alt tag](https://github.com/emanuelgandrade/Projeto-Final-Unifacisa-DDM_2016.1/tree/master/Resource/logo.png)
+![logo](https://raw.githubusercontent.com/emanuelgandrade/Projeto-Final-Unifacisa-DDM_2016.1/master/Resources/logo.png)
 
 #### 1. Descrição do Projeto
 
