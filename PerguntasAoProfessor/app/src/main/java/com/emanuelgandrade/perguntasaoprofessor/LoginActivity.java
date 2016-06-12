@@ -36,6 +36,9 @@ public class LoginActivity extends Activity implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.bLogin:
+
+                startActivity(new Intent(this, MainActivity.class));
+
                 User user = new User(null,null);
 
                 userLocalStore.storeUserData(user);
