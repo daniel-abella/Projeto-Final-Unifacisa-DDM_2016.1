@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1010424074307",
+    "firebase_url": "https://perguntas-ao-palestrante-82346.firebaseio.com",
+    "project_id": "perguntas-ao-palestrante-82346",
+    "storage_bucket": "perguntas-ao-palestrante-82346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010424074307:android:632336adb0340947",
+        "android_client_info": {
+          "package_name": "com.emanuelgandrade.perguntasaopalestrante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010424074307-n9rsr0ha0dckk2t56lej969vnbnpbb6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emanuelgandrade.perguntasaopalestrante",
+            "certificate_hash": "B7DE91987AD6ED35FE74F648AD8664C9A5409E5B"
+          }
+        },
+        {
+          "client_id": "1010424074307-q6ouvut8auo1e4u51ke7aq00t7555ftk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emanuelgandrade.perguntasaopalestrante",
+            "certificate_hash": "FB65B80007E7081C36E0983CAF986FBFEBD27462"
+          }
+        },
+        {
+          "client_id": "1010424074307-ujevcvlp68b9p58k229jh3l0r146sst2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emanuelgandrade.perguntasaopalestrante",
+            "certificate_hash": "CE579C1E8B83395AC7F7748535BBE3ADB8516AA1"
+          }
+        },
+        {
+          "client_id": "1010424074307-ur0ui9hg09k61kr2pr27te18s4mul9bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlLdJ4TYz00zzffD0GscplrK5zCYoLgKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010424074307-ur0ui9hg09k61kr2pr27te18s4mul9bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
